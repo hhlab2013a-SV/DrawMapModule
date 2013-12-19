@@ -1,0 +1,22 @@
+{
+  "name": "DrawMapModule",
+  "version": "0.0.0",
+  "description": "マップを描画するモジュール",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hhlab2013a-SV/DrawMapModule.git"
+  },
+  "author": "saxsir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hhlab2013a-SV/DrawMapModule/issues"
+  },
+  "devDependencies": {
+    "matchdep": "~0.3.0",
+    "grunt": "~0.4.2",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-jsbeautifier": "~0.2.3",
+    "grunt-contrib-jshint": "~0.7.2",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
